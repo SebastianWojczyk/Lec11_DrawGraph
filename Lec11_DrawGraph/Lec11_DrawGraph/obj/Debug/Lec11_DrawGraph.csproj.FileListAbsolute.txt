@@ -1,0 +1,10 @@
+C:\Users\Wykładowca\source\repos\Lec11_DrawGraph\Lec11_DrawGraph\bin\Debug\Lec11_DrawGraph.exe.config
+C:\Users\Wykładowca\source\repos\Lec11_DrawGraph\Lec11_DrawGraph\bin\Debug\Lec11_DrawGraph.exe
+C:\Users\Wykładowca\source\repos\Lec11_DrawGraph\Lec11_DrawGraph\bin\Debug\Lec11_DrawGraph.pdb
+C:\Users\Wykładowca\source\repos\Lec11_DrawGraph\Lec11_DrawGraph\obj\Debug\Lec11_DrawGraph.csproj.AssemblyReference.cache
+C:\Users\Wykładowca\source\repos\Lec11_DrawGraph\Lec11_DrawGraph\obj\Debug\Lec11_DrawGraph.Form1.resources
+C:\Users\Wykładowca\source\repos\Lec11_DrawGraph\Lec11_DrawGraph\obj\Debug\Lec11_DrawGraph.Properties.Resources.resources
+C:\Users\Wykładowca\source\repos\Lec11_DrawGraph\Lec11_DrawGraph\obj\Debug\Lec11_DrawGraph.csproj.GenerateResource.cache
+C:\Users\Wykładowca\source\repos\Lec11_DrawGraph\Lec11_DrawGraph\obj\Debug\Lec11_DrawGraph.csproj.CoreCompileInputs.cache
+C:\Users\Wykładowca\source\repos\Lec11_DrawGraph\Lec11_DrawGraph\obj\Debug\Lec11_DrawGraph.exe
+C:\Users\Wykładowca\source\repos\Lec11_DrawGraph\Lec11_DrawGraph\obj\Debug\Lec11_DrawGraph.pdb

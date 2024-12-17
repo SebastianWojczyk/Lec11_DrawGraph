@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lec11_DrawGraph", "Lec11_DrawGraph\Lec11_DrawGraph.csproj", "{7FD9D76E-6654-41DB-A74A-A56E90D167DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FD9D76E-6654-41DB-A74A-A56E90D167DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FD9D76E-6654-41DB-A74A-A56E90D167DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FD9D76E-6654-41DB-A74A-A56E90D167DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FD9D76E-6654-41DB-A74A-A56E90D167DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {555F1571-D52D-4C40-98F0-FF4C5793054D}
+	EndGlobalSection
+EndGlobal
